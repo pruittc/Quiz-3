@@ -1,5 +1,0 @@
-| Name | Size (kb) |
-| -------- | --------|
-| Waste Collection Corvallis.geojson | 31 |
-| Waste Collection Corvallis_simplified.json | 8 |
-| Waste Collection Corvallis_topo.json | 2 |
